@@ -12,6 +12,14 @@
   "keywords": ["case", "convert"],
   "author": "archcoster@gmail.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archco/cake-case.git"
+  },
+  "bugs": {
+    "url": "https://github.com/archco/cake-case/issues"
+  },
+  "homepage": "https://github.com/archco/cake-case#readme",
   "devDependencies": {
     "@types/jest": "^22.2.2",
     "jest": "^22.4.3",

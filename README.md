@@ -1,5 +1,9 @@
 # Cake Case
 
+[![Build Status](https://travis-ci.org/archco/cake-case.svg?branch=master)](https://travis-ci.org/archco/cake-case)
+[![npm version](https://badge.fury.io/js/cake-case.svg)](https://www.npmjs.com/package/cake-case)
+[![Downloads](https://img.shields.io/npm/dm/cake-case.svg)](https://www.npmjs.com/package/cake-case)
+
 The simple utility methods that converts string case. It's optimized for use in code, such as variable or key of object.
 
 ## Installation

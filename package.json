@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "The simple utility methods that converts string case.",
   "main": "dist/cake-case.js",
+  "module": "dist/module/cake-case.js",
   "types": "index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "webpack --hide-modules",
-    "watch": "npm run build -- --watch"
+    "postbuild": "tsc",
+    "watch": "webpack --hide-modules --watch"
   },
   "keywords": [
     "case",

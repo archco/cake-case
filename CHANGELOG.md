@@ -7,9 +7,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [1.0.0]
+## [1.1.0] - 2018-06-07
+
+### Added
+
+- Add module file. (85f198b946a01bfa33391f9c2cf34187c2fe94e4)
+
+## [1.0.0] - 2018-04-09
 
 First release. 🤗🤗
 
-[Unreleased]: https://github.com/archco/cake-case/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/archco/cake-case/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/archco/cake-case/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/archco/cake-case/compare/10fd8ce...v1.0.0

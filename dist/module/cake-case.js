@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.snake = exports.kebab = exports.pascal = exports.camel = exports.capital = exports.upper = exports.lower = exports.normal = void 0;
 function normal(str, fill) {
     if (fill === void 0) { fill = ' '; }
     return str.replace(/([A-Z][a-z]|[0-9][a-zA-Z])/g, ' $1')

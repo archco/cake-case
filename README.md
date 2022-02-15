@@ -1,6 +1,6 @@
 # Cake Case
 
-[![Build Status](https://travis-ci.org/archco/cake-case.svg?branch=master)](https://travis-ci.org/archco/cake-case)
+[![Build Status](https://github.com/archco/cake-case/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/archco/cake-case)
 [![npm version](https://badge.fury.io/js/cake-case.svg)](https://www.npmjs.com/package/cake-case)
 [![Downloads](https://img.shields.io/npm/dm/cake-case.svg)](https://www.npmjs.com/package/cake-case)
 
